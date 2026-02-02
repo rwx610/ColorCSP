@@ -1,0 +1,21 @@
+# scene
+
+## Description
+Project generated automatically.
+
+## Structure
+├── scene/
+│   └── scene_context.py
+│   └── metrics.py
+│   └── constraints.py
+├── csp/
+│   └── variable.py
+│   └── domain.py
+│   └── propagator.py
+│   └── solver.py
+├── data/
+│   └── nippon_colors.json
+└── test/
+└── README.md
+└── requirements.txt
+└── .gitignore
